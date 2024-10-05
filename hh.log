@@ -1,0 +1,24 @@
+2023-04-13 15:27:50.503545 Executing function get_title
+2023-04-13 15:27:50.503545 Function get_title returned Программист Python, execution time: 0:00:00
+2023-04-13 15:27:50.505543 Executing function get_salary
+2023-04-13 15:27:50.506543 Function get_salary returned от 70 000 до 100 000 руб. до вычета налогов, execution time: 0:00:00.001000
+2023-04-13 15:27:50.507542 Executing function get_company
+2023-04-13 15:27:50.509540 Function get_company returned РусЭкспресс, execution time: 0:00:00.001998
+2023-04-13 15:27:50.510540 Executing function get_location
+2023-04-13 15:27:50.511540 Function get_location returned Москва, execution time: 0:00:00.001000
+2023-04-13 15:27:54.766795 Executing function get_title
+2023-04-13 15:27:54.766795 Function get_title returned Python разработчик, execution time: 0:00:00
+2023-04-13 15:27:54.767794 Executing function get_salary
+2023-04-13 15:27:54.769789 Function get_salary returned от 200 000 до 350 000 руб. на руки, execution time: 0:00:00.001995
+2023-04-13 15:27:54.769789 Executing function get_company
+2023-04-13 15:27:54.770792 Function get_company returned Бизнес-Азимут, execution time: 0:00:00.001003
+2023-04-13 15:27:54.771792 Executing function get_location
+2023-04-13 15:27:54.772789 Function get_location returned Москва, execution time: 0:00:00.000997
+2023-04-13 15:28:02.144282 Executing function get_title
+2023-04-13 15:28:02.144282 Function get_title returned Python-разработчик, execution time: 0:00:00
+2023-04-13 15:28:02.146281 Executing function get_salary
+2023-04-13 15:28:02.147282 Function get_salary returned от 200 000 руб. на руки, execution time: 0:00:00.001001
+2023-04-13 15:28:02.148280 Executing function get_company
+2023-04-13 15:28:02.149279 Function get_company returned ООО ВижнЛабс (VisionLabs), execution time: 0:00:00.000999
+2023-04-13 15:28:02.150280 Executing function get_location
+2023-04-13 15:28:02.154277 Function get_location returned Москва, Подсосенский переулок, 23с3, execution time: 0:00:00.003997

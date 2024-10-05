@@ -1,0 +1,8 @@
+2024-10-05 22:24:49.795663 Function <function test_2.<locals>.hello_world at 0x102eaaa20> started with arguments (), {}.
+2024-10-05 22:24:49.795667 Function <function test_2.<locals>.hello_world at 0x102eaaa20> returned Hello World.
+2024-10-05 22:24:49.795713 Function <function test_2.<locals>.summator at 0x102ec3c40> started with arguments (2, 2), {}.
+2024-10-05 22:24:49.795716 Function <function test_2.<locals>.summator at 0x102ec3c40> returned 4.
+2024-10-05 22:24:49.795759 Function <function test_2.<locals>.div at 0x102ec2ca0> started with arguments (6, 2), {}.
+2024-10-05 22:24:49.795762 Function <function test_2.<locals>.div at 0x102ec2ca0> returned 3.0.
+2024-10-05 22:24:49.795805 Function <function test_2.<locals>.summator at 0x102ec3c40> started with arguments (4.3,), {'b': 2.2}.
+2024-10-05 22:24:49.795809 Function <function test_2.<locals>.summator at 0x102ec3c40> returned 6.5.
